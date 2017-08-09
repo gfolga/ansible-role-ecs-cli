@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: gfolga
+  description: One task role to install ecs-cli
+  license: GPLv2
+  min_ansible_version: 1.2
+  platforms:
+    - name: EL
+    - name: Ubuntu
+        
