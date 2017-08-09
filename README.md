@@ -7,7 +7,7 @@
   hosts: localhost
   roles:
   - ecs-cli
-```yaml
+```
 
 
 ## License
